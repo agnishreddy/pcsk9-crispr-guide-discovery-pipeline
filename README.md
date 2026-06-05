@@ -7,6 +7,13 @@ This project presents a computational bioinformatics workflow for the identifica
 
 Mutations that reduce PCSK9 activity are known to lower circulating low-density lipoprotein cholesterol (LDL-C), making PCSK9 one of the most extensively studied targets for therapeutic genome editing. This project explores the initial computational stages of guide RNA discovery by identifying potential SpCas9 target sites within the genomic structure of PCSK9 and ranking candidates using sequence-based design criteria.
 
+Cardiovascular Disease: Mass-Market PCSK9 & Lp(a) Knockouts
+Cardiovascular disease is the world's leading cause of death. Instead of asking patients to take a statin pill every single day for 40 years, the scalable business model here is "vaccine-style" gene editing: a single injection that permanently rewires the liver to drop cholesterol levels.
+
+Why it’s highly profitable: The patient pool is counted in the tens of millions. Even if you price the therapy significantly lower than rare-disease treatments (e.g., $10,000 instead of $2 million), the sheer volume of patients creates a multi-billion-dollar recurring revenue stream as new generations age into risk categories.
+
+The Current Wave: This isn't theoretical. As tracked on the BioPharma Dive Gene Therapy Hub, major pharmaceutical giants are making massive moves here—evidenced by Eli Lilly's billion-dollar bet on Verve Therapeutics' base-editing technology to permanently disable cholesterol genes.
+
 ---
 
 ## Scientific Background
